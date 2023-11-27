@@ -1,0 +1,29 @@
+{
+  "Signup": [
+    {
+      "name": "teju",
+      "email": "teju@gmail.com",
+      "password": "teju",
+      "id": 1
+    },
+    {
+      "name": "Swarna",
+      "email": "swarna@gmail.com",
+      "password": "12345",
+      "id": 2
+    },
+    {
+      "name": "Sripriya",
+      "email": "srii@gmail.com",
+      "password": "12345",
+      "id": 3
+    },
+    {
+      "name": "Klaus",
+      "email": "klaus@gmail.com",
+      "password": "12345",
+      "id": 4
+    }
+  ],
+  "Cart": []
+}
